@@ -66,7 +66,7 @@
 
 ###
 
-<img align="right" height="350" src="https://media2.giphy.com/media/juua9i2c2fA0AIp2iq/giphy.gif?cid=ecf05e477v1olekedajmdq00zz8n5wnj1r3vsj8pje7cnoby&ep=v1_stickers_search&rid=giphy.gif&ct=s"  />
+<img align="right" height="450" src="https://media2.giphy.com/media/juua9i2c2fA0AIp2iq/giphy.gif?cid=ecf05e477v1olekedajmdq00zz8n5wnj1r3vsj8pje7cnoby&ep=v1_stickers_search&rid=giphy.gif&ct=s"  />
 
 ###
 
