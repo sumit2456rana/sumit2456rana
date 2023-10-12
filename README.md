@@ -8,7 +8,7 @@
 
 ###
 
-<h1 align="center">Hi 👋! My name is Sumit and I'm from Mumbai</h1>
+<h1 align="center">Hi 👋! I'm Sumit and I'm from Mumbai</h1>
 
 ###
 
